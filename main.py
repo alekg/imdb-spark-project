@@ -5,6 +5,7 @@ import Tasks.Task4
 import Tasks.Task5
 import Tasks.Task6
 import Tasks.Task7
+import Tasks.Task8
 
 def main():
     Tasks.Task1.task1()
@@ -14,6 +15,7 @@ def main():
     Tasks.Task5.task5()
     Tasks.Task6.task6()
     Tasks.Task7.task7()
+    Tasks.Task8.task8()
 
 if __name__ == "__main__":
     main()
